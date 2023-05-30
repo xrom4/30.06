@@ -1,7 +1,7 @@
 ###Задание 1###
 
-   lst = ['A','B']
-   import itertools
+    lst = ['A','B']
+    import itertools
    combs = itertools.permutations(lst)
 
 for comb in combs:
